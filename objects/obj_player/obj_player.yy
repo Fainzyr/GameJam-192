@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Captura_de_Tela__30_",
+    "path":"sprites/Captura_de_Tela__30_/Captura_de_Tela__30_.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
