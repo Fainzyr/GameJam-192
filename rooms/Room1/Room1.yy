@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"gamejam 192",
-    "path":"gamejam 192.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
